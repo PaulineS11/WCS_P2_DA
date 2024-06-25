@@ -39,6 +39,11 @@
     </ul>
   </div>
 
+  <!-- Section perso -->
+  <div>
+    <h2>Retour d'expérience personnel</h2>
+    <p> J'ai pris beaucoup de plaisir à travailler ce projet. Le challenge était bien présent pour un débutant face à des millions de lignes et des dizaines de colonnes. Ce projet à demandé un nettoyage des données mode avancé sur Pandas et une finesse d'analyse pour réussir à obtenir le meilleur modèle de ML.</p>
+  </div>
 </body>
 
 </html>
